@@ -1,2 +1,3 @@
 # docker-demo
-Docker demo app
+
+Add a simple Dockerfile to an even simpler nodejs app.
